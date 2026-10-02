@@ -1,0 +1,6 @@
+{
+  "name": "DIGITAL GROWTH WORLD™",
+  "description": "A virtual AI-powered workplace where users interact with animated AI agents inside a top-down pixel-art environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
